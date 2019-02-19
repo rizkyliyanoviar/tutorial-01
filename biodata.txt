@@ -1,2 +1,2 @@
-NPM	: 1706106942
-Nama	: Rizky Liyanoviar
+NPM  : 1706106942
+Nama : Rizky Liyanoviar
